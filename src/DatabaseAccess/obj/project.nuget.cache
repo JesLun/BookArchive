@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DIyjXa7rLnaUI4V7xBtXLyhUqeTfk2EWm3xmrtCXpgpH8L7wnFXpEkAaUItWazLmTXEWHu9CXofr0QFiBQGpGw==",
+  "success": true,
+  "projectFilePath": "/home/jesper/dev/eget/BookArchive/src/DatabaseAccess/DatabaseAccess.csproj",
+  "expectedPackageFiles": [
+    "/home/jesper/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
